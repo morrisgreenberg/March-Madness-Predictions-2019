@@ -1,0 +1,505 @@
+Year,Round,Winner,Loser,WinScore,LoseScore,WinSeed,LoseSeed
+2011,1,Ohio State,Texas San Antonio,75,46,1,16
+2011,1,George Mason,Villanova,61,57,8,9
+2011,1,West Virginia,Clemson,84,76,5,12
+2011,1,Kentucky,Princeton,59,57,4,13
+2011,1,Marquette,Xavier,66,55,11,6
+2011,1,Syracuse,Indiana State,77,60,3,14
+2011,1,Washington,Georgia,68,65,7,10
+2011,1,North Carolina,Long Island University,102,87,2,15
+2011,1,Duke,Hampton,87,45,1,16
+2011,1,Michigan,Tennessee,75,45,8,9
+2011,1,Arizona,Memphis,77,75,5,12
+2011,1,Texas,Oakland,85,81,4,13
+2011,1,Cincinnati,Missouri,78,63,6,11
+2011,1,Connecticut,Bucknell,81,52,3,14
+2011,1,Temple,Penn State,66,64,7,10
+2011,1,San Diego State,Northern Colorado,68,50,2,15
+2011,1,Kansas,Boston University,72,53,1,16
+2011,1,Illinois,Nevada Las Vegas,73,62,9,8
+2011,1,Richmond,Vanderbilt,69,66,12,5
+2011,1,Morehead State,Louisville,62,61,13,4
+2011,1,Virginia Commonwealth,Georgetown,74,56,11,6
+2011,1,Purdue,Saint Peter's,65,43,3,14
+2011,1,Florida State,Texas A&M;,57,50,10,7
+2011,1,Notre Dame,Akron,69,56,2,15
+2011,1,Pittsburgh,North Carolina Asheville,74,51,1,16
+2011,1,Butler,Old Dominion,60,58,8,9
+2011,1,Kansas State,Utah State,73,68,5,12
+2011,1,Wisconsin,Belmont,72,58,4,13
+2011,1,Gonzaga,St Johns NY,86,71,11,6
+2011,1,Brigham Young,Wofford,74,66,3,14
+2011,1,UCLA,Michigan State,78,76,7,10
+2011,1,Florida,California Santa Barbara,79,51,2,15
+2011,2,Ohio State,George Mason,98,66,1,8
+2011,2,Kentucky,West Virginia,71,63,4,5
+2011,2,Marquette,Syracuse,66,62,11,3
+2011,2,North Carolina,Washington,86,83,2,7
+2011,2,Duke,Michigan,73,71,1,8
+2011,2,Arizona,Texas,70,69,5,4
+2011,2,Connecticut,Cincinnati,69,58,3,6
+2011,2,San Diego State,Temple,71,64,2,7
+2011,2,Kansas,Illinois,73,59,1,9
+2011,2,Richmond,Morehead State,65,48,12,13
+2011,2,Virginia Commonwealth,Purdue,94,76,11,3
+2011,2,Florida State,Notre Dame,71,57,10,2
+2011,2,Butler,Pittsburgh,71,70,8,1
+2011,2,Wisconsin,Kansas State,70,65,4,5
+2011,2,Brigham Young,Gonzaga,89,67,3,11
+2011,2,Florida,UCLA,73,65,2,7
+2011,3,Kentucky,Ohio,72,70,4,1
+2011,3,North Carolina,Marquette,81,63,2,11
+2011,3,Arizona,Duke,93,77,5,1
+2011,3,Connecticut,San Diego State,74,67,3,2
+2011,3,Kansas,Richmond,77,57,1,12
+2011,3,Virginia Commonwealth,Florida State,72,71,11,10
+2011,3,Butler,Wisconsin,61,54,8,4
+2011,3,Florida,Brigham Young,83,74,2,3
+2011,4,Kentucky,North Carolina,76,69,4,2
+2011,4,Connecticut,Arizona,65,63,3,5
+2011,4,Virginia Commonwealth,Kansas,71,61,11,1
+2011,4,Butler,Florida,74,71,8,2
+2011,5,Connecticut,Kentucky,56,55,3,2
+2011,5,Butler,Virginia Commonwealth,70,62,8,11
+2011,6,Connecticut,Butler,53,41,3,8
+2012,1,Kentucky,Western Kentucky,81,66,1,16
+2012,1,Iowa State,Connecticut,77,64,8,9
+2012,1,Virginia Commonwealth,Wichita State,62,59,12,5
+2012,1,Indiana,New Mexico State,79,66,4,13
+2012,1,Colorado,Nevada Las Vegas,68,64,11,6
+2012,1,Baylor,South Dakota State,68,60,3,14
+2012,1,Xavier,Notre Dame,67,63,10,7
+2012,1,Lehigh,Duke,75,70,15,2
+2012,1,Michigan State,Long Island University,89,67,1,16
+2012,1,Saint Louis,Memphis,61,54,9,8
+2012,1,New Mexico,Long Beach State,75,68,5,12
+2012,1,Louisville,Davidson,69,62,4,13
+2012,1,Murray State,Colorado State,58,41,6,11
+2012,1,Marquette,Brigham Young,88,68,3,14
+2012,1,Florida,Virginia,71,45,7,10
+2012,1,Norfolk State,Missouri,86,84,15,2
+2012,1,Syracuse,North Carolina Asheville,72,65,1,16
+2012,1,Kansas State,Southern Mississippi,70,64,8,9
+2012,1,Vanderbilt,Harvard,79,70,5,12
+2012,1,Wisconsin,Montana,73,49,4,13
+2012,1,Cincinnati,Texas,65,59,6,11
+2012,1,Florida State,St Bonaventure,66,63,3,14
+2012,1,Gonzaga,West Virginia,77,54,7,10
+2012,1,Ohio State,Loyola (MD),78,59,2,15
+2012,1,North Carolina,Vermont,77,58,1,16
+2012,1,Creighton,Alabama,59,58,8,9
+2012,1,South Florida,Temple,58,44,5,12
+2012,1,Ohio,Michigan,65,60,13,4
+2012,1,North Carolina State,San Diego State,79,65,11,6
+2012,1,Georgetown,Belmont,74,59,3,14
+2012,1,Purdue,Saint Mary's CA,72,69,10,7
+2012,1,Kansas,Detroit Mercy,65,50,2,15
+2012,2,Kentucky,Iowa State,87,71,1,8
+2012,2,Indiana,Virginia Commonwealth,63,61,4,12
+2012,2,Baylor,Colorado,80,63,3,11
+2012,2,Xavier,Lehigh,70,58,10,15
+2012,2,Michigan State,Saint Louis,65,61,2,9
+2012,2,Louisville,New Mexico,59,56,4,5
+2012,2,Marquette,Murray State,62,53,3,6
+2012,2,Florida,Norfolk State,84,50,7,15
+2012,2,Syracuse,Kansas State,75,59,1,8
+2012,2,Wisconsin,Vanderbilt,60,57,4,5
+2012,2,Cincinnati,Florida State,62,56,6,3
+2012,2,Ohio State,Gonzaga,73,66,7,2
+2012,2,North Carolina,Creighton,87,73,1,8
+2012,2,Ohio,South Florida,62,56,13,12
+2012,2,North Carolina State,Georgetown,66,63,11,3
+2012,2,Kansas,Purdue,63,60,2,10
+2012,3,Kentucky,Indiana,102,90,1,4
+2012,3,Baylor,Xavier,75,70,3,10
+2012,3,Louisville,Michigan State,57,44,4,1
+2012,3,Florida,Marquette,68,58,7,3
+2012,3,Syracuse,Wisconsin,64,63,1,4
+2012,3,Ohio State,Cincinnati,81,66,2,6
+2012,3,North Carolina,Ohio,73,65,1,13
+2012,3,Kansas,North Carolina State,60,57,2,11
+2012,4,Kentucky,Baylor,82,70,1,3
+2012,4,Louisville,Florida,72,68,4,7
+2012,4,Ohio State,Syracuse,77,70,2,1
+2012,4,Kansas,North Carolina,80,67,2,1
+2012,5,Kentucky,Louisville,69,61,1,4
+2012,5,Kansas,Ohio State,64,62,2,2
+2012,6,Kentucky,Kansas,67,59,1,2
+2013,1,Louisville,North Carolina A&T;,79,48,1,16
+2013,1,Colorado State,Missouri,84,72,8,9
+2013,1,Oregon,Oklahoma State,68,55,12,5
+2013,1,Saint Louis,New Mexico State,64,44,4,13
+2013,1,Memphis,Saint Mary's CA,54,52,6,11
+2013,1,Michigan State,Valparaiso,65,54,3,14
+2013,1,Creighton,Cincinnati,67,63,7,10
+2013,1,Duke,Albany NY,73,61,2,15
+2013,1,Gonzaga,Southern,64,58,1,16
+2013,1,Wichita State,Pittsburgh,73,55,9,8
+2013,1,Mississippi,Wisconsin,57,46,12,5
+2013,1,La Salle,Kansas State,63,61,13,4
+2013,1,Arizona,Belmont,81,64,6,11
+2013,1,Harvard,New Mexico,68,62,14,3
+2013,1,Iowa State,Notre Dame,76,58,7,10
+2013,1,Ohio State,Iona,95,70,2,15
+2013,1,Kentucky,Western Kentucky,64,57,1,16
+2013,1,North Carolina,Villanova,78,71,8,9
+2013,1,Virginia Commonwealth,Akron,88,42,5,12
+2013,1,Michigan,South Dakota State,71,56,4,13
+2013,1,Minnesota,UCLA,83,63,11,6
+2013,1,Florida,Northwestern State,79,47,3,14
+2013,1,San Diego State,Oklahoma,70,55,7,10
+2013,1,Florida Gulf Coast,Georgetown,78,68,15,2
+2013,1,Indiana,James Madison,83,62,1,16
+2013,1,Temple,North Carolina State,76,72,9,8
+2013,1,California,Nevada Las Vegas,64,61,12,5
+2013,1,Syracuse,Montana,81,34,4,13
+2013,1,Butler,Bucknell,68,56,6,11
+2013,1,Marquette,Davidson,59,58,3,14
+2013,1,Illinois,Colorado,57,49,7,10
+2013,1,Miami FL,Pacific,78,49,2,15
+2013,2,Louisville,Colorado State,82,56,1,8
+2013,2,Oregon,Saint Louis,74,57,12,4
+2013,2,Michigan State,Memphis,70,48,3,6
+2013,2,Duke,Creighton,66,50,2,7
+2013,2,Wichita State,Gonzaga,76,70,9,1
+2013,2,La Salle,Mississippi,76,74,13,12
+2013,2,Arizona,Harvard,74,51,6,14
+2013,2,Ohio State,Iowa State,78,75,2,10
+2013,2,Kansas,North Carolina,70,58,1,8
+2013,2,Michigan,Virginia Commonwealth,78,53,4,5
+2013,2,Florida,Minnesota,78,64,3,11
+2013,2,Florida Gulf Coast,San Diego State,81,71,15,7
+2013,2,Indiana,Temple,58,52,1,9
+2013,2,Syracuse,California,66,60,4,12
+2013,2,Marquette,Butler,66,64,3,6
+2013,2,Miami FL,Illinois,63,59,2,7
+2013,3,Louisville,Oregon,77,69,1,12
+2013,3,Duke,Michigan State,71,61,2,3
+2013,3,Wichita State,La Salle,72,58,9,13
+2013,3,Ohio State,Arizona,73,70,2,6
+2013,3,Michigan,Kansas,87,85,4,1
+2013,3,Florida,Florida Gulf Coast,62,50,3,15
+2013,3,Syracuse,Indiana,61,50,4,1
+2013,3,Marquette,Miami FL,71,61,3,2
+2013,4,Louisville,Duke,85,63,1,2
+2013,4,Wichita State,Ohio State,70,66,9,2
+2013,4,Michigan,Florida,79,59,4,3
+2013,4,Syracuse,Marquette,55,39,4,3
+2013,5,Louisville,Wichita State,72,68,1,9
+2013,5,Michigan,Syracuse,61,56,4,4
+2013,6,Louisville,Michigan,82,76,1,4
+2014,1,Florida,Albany NY,67,55,1,16
+2014,1,Pittsburgh,Colorado,77,48,9,8
+2014,1,Stephen F. Austin,Virginia Commonwealth,77,75,12,5
+2014,1,UCLA,Tulsa,76,59,4,13
+2014,1,Dayton,Ohio State,60,59,11,6
+2014,1,Syracuse,Western Michigan,77,53,3,14
+2014,1,Stanford,New Mexico,58,53,10,7
+2014,1,Kansas,Eastern Kentucky,80,69,2,15
+2014,1,Virginia,Coastal Carolina,70,59,1,16
+2014,1,Memphis,George Washington,71,66,8,9
+2014,1,Harvard,Cincinnati,61,57,12,5
+2014,1,Michigan State,Delaware,93,78,4,13
+2014,1,North Carolina,Providence,79,77,6,11
+2014,1,Iowa State,North Carolina Central,93,75,3,14
+2014,1,Connecticut,Saint Joseph's,89,81,7,10
+2014,1,Villanova,Milwaukee,73,53,2,15
+2014,1,Arizona,Weber State,68,59,1,16
+2014,1,Gonzaga,Oklahoma State,85,77,8,9
+2014,1,North Dakota State,Oklahoma,80,75,12,5
+2014,1,San Diego State,New Mexico,73,69,4,13
+2014,1,Baylor,Nebraska,74,60,6,11
+2014,1,Creighton,Louisiana Lafayette,76,66,3,14
+2014,1,Oregon,Brigham Young,87,68,7,10
+2014,1,Wisconsin,American,75,35,2,15
+2014,1,Wichita State,Cal Poly,64,37,1,16
+2014,1,Kentucky,Kansas State,56,49,8,9
+2014,1,Saint Louis,North Carolina State,83,80,12,5
+2014,1,Louisville,Manhattan,71,64,4,13
+2014,1,Tennessee,Massachusetts,86,67,11,6
+2014,1,Mercer,Duke,78,71,14,3
+2014,1,Texas,Arizona State,87,85,7,10
+2014,1,Michigan,Wofford,57,40,2,15
+2014,2,Florida,Pittsburgh,61,45,1,9
+2014,2,UCLA,Stephen F. Austin,77,60,4,12
+2014,2,Dayton,Syracuse,55,53,11,3
+2014,2,Stanford,Kansas,60,57,10,2
+2014,2,Virginia,Memphis,78,60,1,8
+2014,2,Michigan State,Harvard,80,73,4,12
+2014,2,Iowa State,North Carolina,85,83,3,6
+2014,2,Connecticut,Villanova,77,65,7,2
+2014,2,Arizona,Gonzaga,84,61,1,8
+2014,2,San Diego State,North Dakota State,63,44,4,12
+2014,2,Baylor,Creighton,85,55,6,3
+2014,2,Wisconsin,Oregon,85,77,2,7
+2014,2,Kentucky,Wichita State,78,76,8,1
+2014,2,Louisville,Saint Louis,66,51,4,5
+2014,2,Tennessee,Mercer,83,63,11,14
+2014,2,Michigan,Texas,79,65,2,7
+2014,3,Florida,UCLA,79,68,1,4
+2014,3,Dayton,Stanford,82,72,11,10
+2014,3,Michigan State,Virginia,61,59,4,1
+2014,3,Connecticut,Iowa State,81,76,7,3
+2014,3,Arizona,San Diego State,70,64,1,4
+2014,3,Wisconsin,Baylor,69,52,2,6
+2014,3,Kentucky,Louisville,74,69,8,4
+2014,3,Michigan,Tennessee,73,71,2,11
+2014,4,Florida,Dayton,62,52,1,11
+2014,4,Connecticut,Michigan State,60,54,7,4
+2014,4,Wisconsin,Arizona,64,63,2,1
+2014,4,Kentucky,Michigan,75,72,8,2
+2014,5,Connecticut,Florida,63,53,7,1
+2014,5,Kentucky,Wisconsin,74,73,8,2
+2014,6,Connecticut,Kentucky,60,54,7,8
+2015,1,Kentucky,Hampton,79,56,1,16
+2015,1,Cincinnati,Purdue,66,65,8,9
+2015,1,West Virginia,Buffalo,68,62,5,12
+2015,1,Maryland,Valparaiso,65,62,4,13
+2015,1,Butler,Texas,56,48,6,11
+2015,1,Notre Dame,Northeastern,69,65,3,14
+2015,1,Wichita State,Indiana,81,76,7,10
+2015,1,Kansas,New Mexico State,75,56,2,15
+2015,1,Wisconsin,Coastal Carolina,86,72,1,16
+2015,1,Oregon,Oklahoma State,79,73,8,9
+2015,1,Arkansas,Wofford,56,53,5,12
+2015,1,North Carolina,Harvard,67,65,4,13
+2015,1,Xavier,Mississippi,76,57,6,11
+2015,1,Georgia State,Baylor,57,56,14,3
+2015,1,Ohio State,Virginia Commonwealth,75,72,10,7
+2015,1,Arizona,Texas Southern,93,72,2,15
+2015,1,Villanova,Lafayette,93,52,1,16
+2015,1,North Carolina State,Louisiana State,66,65,8,9
+2015,1,Northern Iowa,Wyoming,71,54,5,12
+2015,1,Louisville,California Irvine,57,55,4,13
+2015,1,Dayton,Providence,66,53,11,6
+2015,1,Oklahoma,Albany NY,69,60,3,14
+2015,1,Michigan State,Georgia,70,63,7,10
+2015,1,Virginia,Belmont,79,67,2,15
+2015,1,Duke,Robert Morris,85,56,1,16
+2015,1,San Diego State,St Johns NY,76,64,8,9
+2015,1,Utah,Stephen F. Austin,57,50,5,12
+2015,1,Georgetown,Eastern Washington,84,74,4,13
+2015,1,UCLA,Southern Methodist,60,59,11,6
+2015,1,Alabama Birmingham,Iowa State,60,59,3,14
+2015,1,Iowa,Davidson,83,52,7,10
+2015,1,Gonzaga,North Dakota State,86,76,2,15
+2015,2,Kentucky,Cincinnati,64,51,1,8
+2015,2,West Virginia,Maryland,69,59,5,4
+2015,2,Notre Dame,Butler,67,64,3,6
+2015,2,Wichita State,Kansas,78,65,7,2
+2015,2,Wisconsin,Oregon,72,65,1,8
+2015,2,North Carolina,Arkansas,87,78,4,5
+2015,2,Xavier,Georgia State,75,67,6,14
+2015,2,Arizona,Ohio State,73,58,2,10
+2015,2,North Carolina State,Villanova,71,68,8,1
+2015,2,Louisville,Northern Iowa,66,53,4,5
+2015,2,Oklahoma,Dayton,72,66,3,11
+2015,2,Michigan State,Virginia,60,54,7,2
+2015,2,Duke,San Diego State,68,49,1,8
+2015,2,Utah,Georgetown,75,64,5,4
+2015,2,UCLA,Alabama Birmingham,92,75,11,14
+2015,2,Gonzaga,Iowa,87,68,2,7
+2015,3,Kentucky,West Virginia,78,39,1,5
+2015,3,Notre Dame,Wichita State,81,70,3,7
+2015,3,Wisconsin,North Carolina,79,72,1,4
+2015,3,Arizona,Xavier,68,60,2,6
+2015,3,Louisville,North Carolina State,75,65,4,8
+2015,3,Michigan State,Oklahoma,62,58,7,3
+2015,3,Duke,Utah,63,57,1,5
+2015,3,Gonzaga,UCLA,74,62,2,11
+2015,4,Kentucky,Notre Dame,68,66,1,3
+2015,4,Wisconsin,Arizona,85,78,1,2
+2015,4,Michigan State,Louisville,76,70,7,4
+2015,4,Duke,Gonzaga,66,52,1,2
+2015,5,Wisconsin,Kentucky,71,64,1,1
+2015,5,Duke,Michigan State,81,61,1,7
+2015,6,Duke,Wisconsin,68,63,1,1
+2016,1,Kansas,Austin Peay,105,79,1,16
+2016,1,Connecticut,Colorado,74,67,9,8
+2016,1,Maryland,South Dakota State,79,74,5,12
+2016,1,Hawaii,California,77,66,13,4
+2016,1,Miami FL,Buffalo,79,72,3,14
+2016,1,Wichita State,Arizona,65,55,11,6
+2016,1,Iowa,Temple,72,70,7,10
+2016,1,Villanova,North Carolina Asheville,86,56,2,15
+2016,1,Oregon,Holy Cross,91,52,1,16
+2016,1,Saint Joseph's,Cincinnati,78,76,8,9
+2016,1,Yale,Baylor,79,75,12,5
+2016,1,Duke,North Carolina Wilmington,93,85,4,13
+2016,1,Texas A&M;,Green Bay,92,65,3,14
+2016,1,Northern Iowa,Texas,75,72,11,6
+2016,1,Virginia Commonwealth,Oregon State,75,67,10,7
+2016,1,Oklahoma,Cal State Bakersfield,82,68,2,15
+2016,1,North Carolina,Florida Gulf Coast,83,67,1,16
+2016,1,Providence,Southern California,70,69,9,8
+2016,1,Indiana,Chattanooga,99,74,5,12
+2016,1,Kentucky,Stony Brook,85,57,4,13
+2016,1,Stephen F. Austin,West Virginia,70,56,14,3
+2016,1,Notre Dame,Michigan,70,63,6,11
+2016,1,Wisconsin,Pittsburgh,47,43,7,10
+2016,1,Xavier,Weber State,71,53,2,15
+2016,1,Virginia,Hampton,81,45,1,16
+2016,1,Butler,Texas Tech,71,61,9,8
+2016,1,Arkansas Little Rock,Purdue,85,83,12,5
+2016,1,Iowa State,Iona,94,81,4,13
+2016,1,Utah,Fresno State,80,69,3,14
+2016,1,Gonzaga,Seton Hall,68,52,11,6
+2016,1,Syracuse,Dayton,70,51,10,7
+2016,1,Middle Tennessee,Michigan State,90,81,15,2
+2016,2,Kansas,Connecticut,73,61,1,9
+2016,2,Maryland,Hawaii,73,60,5,13
+2016,2,Miami FL,Wichita State,65,57,3,11
+2016,2,Villanova,Iowa,87,68,2,7
+2016,2,Oregon,Saint Joseph's,69,64,1,8
+2016,2,Duke,Yale,71,64,4,12
+2016,2,Texas A&M;,Northern Iowa,92,88,3,11
+2016,2,Oklahoma,Virginia Commonwealth,85,81,2,10
+2016,2,North Carolina,Providence,85,66,1,8
+2016,2,Indiana,Kentucky,73,67,5,4
+2016,2,Notre Dame,Stephen F. Austin,76,75,6,14
+2016,2,Wisconsin,Xavier,66,63,7,2
+2016,2,Virginia,Butler,77,69,1,9
+2016,2,Iowa State,Arkansas Little Rock,78,61,4,12
+2016,2,Gonzaga,Utah,82,59,11,3
+2016,2,Syracuse,Middle Tennessee,75,50,10,15
+2016,3,Kansas,Maryland,79,63,1,5
+2016,3,Villanova,Miami FL,92,68,2,3
+2016,3,Oregon,Duke,82,68,1,4
+2016,3,Oklahoma,Texas A&M;,77,63,2,3
+2016,3,North Carolina,Indiana,101,86,1,5
+2016,3,Notre Dame,Wisconsin,61,56,6,7
+2016,3,Virginia,Iowa State,84,71,1,4
+2016,3,Syracuse,Gonzaga,63,60,10,11
+2016,4,Villanova,Kansas,64,59,2,1
+2016,4,Oklahoma,Oregon,80,68,2,1
+2016,4,North Carolina,Notre Dame,88,74,1,6
+2016,4,Syracuse,Virginia,68,62,10,1
+2016,5,Villanova,Oklahoma,95,51,2,2
+2016,5,North Carolina,Syracuse,83,66,1,10
+2016,6,Villanova,North Carolina,77,74,2,1
+2017,1,Villanova,Mount St. Mary's,76,56,1,16
+2017,1,Wisconsin,Virginia Tech,84,74,8,9
+2017,1,Virginia,North Carolina Wilmington,76,71,5,12
+2017,1,Florida,East Tennessee State,80,65,4,13
+2017,1,Baylor,New Mexico State,91,73,3,14
+2017,1,Southern California,Southern Methodist,66,65,11,6
+2017,1,South Carolina,Marquette,93,73,7,10
+2017,1,Duke,Troy,87,65,2,15
+2017,1,Gonzaga,South Dakota State,66,46,1,16
+2017,1,Northwestern,Vanderbilt,68,66,8,9
+2017,1,Notre Dame,Princeton,60,58,5,12
+2017,1,West Virginia,Bucknell,86,80,4,13
+2017,1,Florida State,Florida Gulf Coast,86,80,3,14
+2017,1,Xavier,Maryland,76,65,11,6
+2017,1,Saint Mary's CA,Virginia Commonwealth,85,77,7,10
+2017,1,Arizona,North Dakota,100,82,2,15
+2017,1,Kansas,California Davis,100,62,1,16
+2017,1,Michigan State,Miami FL,78,58,9,8
+2017,1,Iowa State,Nevada,84,73,5,12
+2017,1,Purdue,Vermont,80,70,4,13
+2017,1,Oregon,Iona,93,77,3,14
+2017,1,Rhode Island,Creighton,84,72,11,6
+2017,1,Michigan,Oklahoma State,92,91,7,10
+2017,1,Louisville,Jacksonville State,78,63,2,15
+2017,1,North Carolina,Texas Southern,103,64,1,16
+2017,1,Arkansas,Seton Hall,77,71,8,9
+2017,1,Middle Tennessee,Minnesota,81,72,12,5
+2017,1,Butler,Winthrop,76,64,4,13
+2017,1,UCLA,Kent State,97,80,3,14
+2017,1,Cincinnati,Kansas State,75,61,6,11
+2017,1,Wichita State,Dayton,64,58,10,7
+2017,1,Kentucky,Northern Kentucky,79,70,2,15
+2017,2,Wisconsin,Villanova,65,62,8,1
+2017,2,Florida,Virginia,65,39,4,5
+2017,2,Baylor,Southern California,82,78,3,11
+2017,2,South Carolina,Duke,88,81,7,2
+2017,2,Gonzaga,Northwestern,79,73,1,8
+2017,2,West Virginia,Notre Dame,83,71,4,5
+2017,2,Xavier,Florida State,91,66,11,3
+2017,2,Arizona,Saint Mary's CA,69,60,2,7
+2017,2,Kansas,Michigan State,90,70,1,9
+2017,2,Purdue,Iowa State,80,76,4,5
+2017,2,Oregon,Rhode Island,75,72,3,11
+2017,2,Michigan,Louisville,73,69,7,2
+2017,2,North Carolina,Arkansas,72,65,1,8
+2017,2,Butler,Middle Tennessee,74,65,4,12
+2017,2,UCLA,Cincinnati,79,67,3,6
+2017,2,Kentucky,Wichita State,65,62,2,10
+2017,3,Florida,Wisconsin,84,83,4,8
+2017,3,South Carolina,Baylor,70,50,7,3
+2017,3,Gonzaga,West Virginia,61,58,1,4
+2017,3,Xavier,Arizona,73,71,11,2
+2017,3,Kansas,Purdue,98,66,1,4
+2017,3,Oregon,Michigan,69,68,3,7
+2017,3,North Carolina,Butler,92,80,1,4
+2017,3,Kentucky,UCLA,86,75,2,3
+2017,4,South Carolina,Florida,77,70,7,4
+2017,4,Gonzaga,Xavier,83,59,1,11
+2017,4,Oregon,Kansas,74,60,1,3
+2017,4,North Carolina,Kentucky,75,73,1,2
+2017,5,Gonzaga,South Carolina,77,73,1,7
+2017,5,North Carolina,Oregon,77,76,1,3
+2017,6,North Carolina,Gonzaga,71,65,1,1
+2018,1,Maryland Baltimore County,Virginia,74,54,16,1
+2018,1,Kansas State,Creighton,69,59,9,8
+2018,1,Kentucky,Davidson,78,73,5,12
+2018,1,Buffalo,Arizona,89,68,13,4
+2018,1,Tennessee,Wright State,73,47,3,14
+2018,1,Loyola (IL),Miami FL,64,62,11,6
+2018,1,Nevada,Texas,87,83,7,10
+2018,1,Cincinnati,Georgia State,68,53,2,15
+2018,1,Xavier,Texas Southern,102,83,1,16
+2018,1,Florida State,Missouri,67,54,9,8
+2018,1,Ohio State,South Dakota State,81,73,5,12
+2018,1,Gonzaga,North Carolina Greensboro,68,64,4,13
+2018,1,Michigan,Montana,61,47,3,14
+2018,1,Houston,San Diego State,67,65,6,11
+2018,1,Texas A&M;,Providence,73,69,7,10
+2018,1,North Carolina,Lipscomb,84,66,2,15
+2018,1,Villanova,Radford,87,61,1,16
+2018,1,Alabama,Virginia Tech,86,83,9,8
+2018,1,West Virginia,Murray State,85,68,5,12
+2018,1,Marshall,Wichita State,81,75,13,4
+2018,1,Texas Tech,Stephen F. Austin,70,60,3,14
+2018,1,Florida,St. Bonaventure,77,62,11,6
+2018,1,Butler,Arkansas,79,62,10,7
+2018,1,Purdue,Cal State Fullerton,74,48,2,15
+2018,1,Kansas,Pennsylvania,76,60,1,16
+2018,1,Seton Hall,North Carolina State,94,83,8,9
+2018,1,Clemson,New Mexico State,79,68,5,12
+2018,1,Auburn,College of Charleston,62,58,4,13
+2018,1,Michigan State,Bucknell,82,78,3,14
+2018,1,Syracuse,Texas Christian,57,52,11,6
+2018,1,Rhode Island,Oklahoma,83,78,7,10
+2018,1,Duke,Iona,89,67,2,15
+2018,2,Kansas State,Maryland Baltimore County,50,43,9,16
+2018,2,Kentucky,Buffalo,95,75,5,13
+2018,2,Loyola (IL),Tennessee,63,62,11,3
+2018,2,Nevada,Cincinnati,75,73,7,2
+2018,2,Florida State,Xavier,75,70,9,1
+2018,2,Gonzaga,Ohio State,90,84,4,5
+2018,2,Michigan,Houston,64,63,3,6
+2018,2,Texas A&M;,North Carolina,86,65,7,2
+2018,2,Villanova,Alabama,81,58,1,9
+2018,2,West Virginia,Marshall,94,71,5,13
+2018,2,Texas Tech,Florida,69,66,3,6
+2018,2,Purdue,Butler,76,73,2,10
+2018,2,Kansas,Seton Hall,83,79,1,8
+2018,2,Clemson,Auburn,84,53,5,4
+2018,2,Syracuse,Michigan State,55,53,11,3
+2018,2,Duke,Rhode Island,87,62,2,7
+2018,3,Kansas State,Kentucky,61,58,9,5
+2018,3,Loyola (IL),Nevada,69,68,11,7
+2018,3,Florida State,Gonzaga,75,60,9,4
+2018,3,Michigan,Texas A&M;,99,72,3,7
+2018,3,Villanova,West Virginia,90,78,1,5
+2018,3,Texas Tech,Purdue,78,65,3,2
+2018,3,Kansas,Clemson,80,76,1,5
+2018,3,Duke,Syracuse,69,65,2,11
+2018,4,Loyola (IL),Kansas State,78,62,11,9
+2018,4,Michigan,Florida State,58,54,3,9
+2018,4,Villanova,Texas Tech,71,59,1,3
+2018,4,Kansas,Duke,85,81,1,2
+2018,5,Michigan,Loyola (IL),69,57,3,11
+2018,5,Villanova,Kansas,95,79,1,1
+2018,6,Villanova,Michigan,79,61,1,3
